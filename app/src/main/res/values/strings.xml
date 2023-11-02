@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JetXChange</string>
+    <string name="coin_list_item_text">%1$s. %2$s (%3$s)</string>
+    <string name="coin_state_active">active</string>
+    <string name="coin_state_inactvie">inactive</string>
+    <string name="error_image">Error image</string>
+    <string name="error_default_text">There was an unexpected error</string>
+</resources>
