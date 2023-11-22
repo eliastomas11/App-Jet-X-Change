@@ -12,13 +12,13 @@ Jet X Change is an Android application that allows you to browse a list of crypt
 
 
 
-## Usage/Examples
+## 🎥 Demo
 
 ![Demo](https://i.imgur.com/Ybz7r60.gif)
 
 
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - Android Studio
 - Gradle
